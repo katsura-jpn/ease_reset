@@ -56,6 +56,3 @@ def ease_reset_init():
         mw.ease_reset = ease_reset();
         mw.ease_reset.setup_menu();
 addHook("profileLoaded", ease_reset_init);
-
-#def ease_reset_finalize():
-#    mw.ease_reset = None;
