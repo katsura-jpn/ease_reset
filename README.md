@@ -7,10 +7,12 @@ You need to have a "Current Deck" selected. Simply click on the deck you wish to
 
 In the image below, notice how the "Grammar" deck is highlighted.
 
-![selected_deck](https://github.com/katsura-jpn/ease_reset/assets/71519684/b61dcecf-f789-4e6f-b4f9-8ce9f0a3488d)
+![selected_deck](https://github.com/katsura-jpn/ease_reset/assets/71519684/a8090d49-76d1-4c1c-add0-baff62187ada)
 
 Then you select `Tools > Reset Ease of Current Deck.`
-![tool_reset](https://github.com/katsura-jpn/ease_reset/assets/71519684/98f36f2b-742f-4e05-931f-b5716d6e64f2)
-![reset_confirm](https://github.com/katsura-jpn/ease_reset/assets/71519684/1a566c03-bd75-489d-81b2-1bf6e9325358)
+
+![tool_reset](https://github.com/katsura-jpn/ease_reset/assets/71519684/aa0254fb-9aea-4231-9135-6c2a3ebeb208)
 
 **_Every_** card within the deck will be reset to the default ease value of 250%.
+
+![reset_confirm](https://github.com/katsura-jpn/ease_reset/assets/71519684/782b8530-ada0-4deb-8213-61d0ba52d4f4)
